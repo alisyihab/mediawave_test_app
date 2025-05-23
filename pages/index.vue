@@ -54,7 +54,7 @@
 import { ref, onMounted } from "vue";
 import Navbar from "~/components/Navbar.vue";
 import PhoneMap from "~/components/PhoneMap.vue";
-import DataTable from "~/components/Datatable.vue";
+import DataTable from "~/components/DataTable.vue";
 import DataPanel from "~/components/DataPanel.vue";
 import SalesChart from "~/components/SalesChart.vue";
 
